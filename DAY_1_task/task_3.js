@@ -11,12 +11,12 @@ const obj={                     // object
 
 const obj_2=[       // object inside array
     {
-        first:"Hello this is Kush and this is my last time revision of JS",
-        sec:"After this directly project and confidently apply for companies",
+        first:"Hello this is Kush and this is revision of JS",
+        sec:"This is second",
     },
     {
         first:"Hello this is Kush and this is second array",
-        sec:"This is second array element , in shot this is object inside of array",
+        sec:"This is second, second time",
     }
 ]
 
